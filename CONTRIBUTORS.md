@@ -1,3 +1,4 @@
 - [Matheus Calegaro](https://github.com/mathcale)
 - [Andrew Johnston](https://github.com/arjohnston)
 - [Devansh Sharma](https://github.com/devansh289)
+- [Manolo](https://github.com/Mreis89)
