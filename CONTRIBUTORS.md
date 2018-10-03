@@ -1,2 +1,3 @@
 - [Matheus Calegaro](https://github.com/mathcale)
 - [Andrew Johnston](https://github.com/arjohnston)
+- [Manolo](https://github.com/Mreis89)
